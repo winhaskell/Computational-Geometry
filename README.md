@@ -1,3 +1,3 @@
-# Computational-Geometry
-# 计算几何
+ Computational-Geometry
+ 计算几何
 
